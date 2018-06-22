@@ -8,7 +8,7 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
     public void clickFunction(View view) {
-        Log.i("Info", "Button was pressed!");
+        Log.i("Info", "Button was pressed");
     }
 
     @Override
